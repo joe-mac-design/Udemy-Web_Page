@@ -176,6 +176,16 @@ header nav ul li {
     font-weight: bolder;
 }
 
+.con-td {
+    color: palevioletred;
+    text-decoration: none;
+}
+
+.con-td:hover {
+    text-decoration: underline;
+    color: palevioletred;
+}
+
 /* Contact */
 #contact {
     width: 100%;
